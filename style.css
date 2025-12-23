@@ -282,8 +282,8 @@ button:hover {
   z-index: 1000;
   left: 0;
   top: 0;
-  width: 100%;
-  height: 100%;
+  width: 100vh;
+  height: 100vh;
   overflow: auto;
   display: flex;
   background-color: rgba(0,0,0,0.5);
@@ -354,4 +354,5 @@ button:hover {
 .remove-alert-btn:hover {
   background: #f0f2f5;
 }
+
 
