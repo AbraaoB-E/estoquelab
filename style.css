@@ -278,7 +278,7 @@ button:hover {
 
 /* Estilo geral do modal (fundo semi-transparente) */
 .alert-modal {
-  position: fixed;
+  position: flex;
   z-index: 1000;
   left: 0;
   top: 0;
@@ -354,6 +354,7 @@ button:hover {
 .remove-alert-btn:hover {
   background: #f0f2f5;
 }
+
 
 
 
